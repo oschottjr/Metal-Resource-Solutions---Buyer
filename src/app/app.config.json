@@ -1,0 +1,14 @@
+{
+	"appname": "Metal Resource Solutions - Buyer",
+	"scope": "FullAccess",
+	"clientid": "63F98011-ED2D-4808-98E1-4029B2D571EB",
+	"buyerid": "METALBUYER",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
